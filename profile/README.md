@@ -8,9 +8,9 @@
   
 Free · Local-only · No account needed
 
-[![Download](https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://urlportz.com)
-[![Platform](https://img.shields.io/badge/macOS-coming%20soon-999999?style=for-the-badge&logo=apple)](https://urlportz.com)
-[![Platform](https://img.shields.io/badge/Linux-coming%20soon-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://urlportz.com)
+[![Windows Download](https://custom-icon-badges.demolab.com/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://urlportz.com)
+[![macOS Coming Soon](https://img.shields.io/badge/macOS-coming%20soon-999999?style=for-the-badge&logo=apple&logoColor=white)](https://urlportz.com)
+[![Linux Coming Soon](https://img.shields.io/badge/Linux-coming%20soon-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://urlportz.com)
 
 [Website](https://urlportz.com) · [Download](https://urlportz.com) · [Report a Bug](https://urlportz.com)
 
