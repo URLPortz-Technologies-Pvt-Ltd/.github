@@ -8,11 +8,11 @@
   
 Free · Local-only · No account needed
 
-[![Windows Download](https://custom-icon-badges.demolab.com/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://urlportz.com)
-[![macOS Coming Soon](https://img.shields.io/badge/macOS-coming%20soon-999999?style=for-the-badge&logo=apple&logoColor=white)](https://urlportz.com)
-[![Linux Coming Soon](https://img.shields.io/badge/Linux-coming%20soon-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://urlportz.com)
+[![Windows Download](https://custom-icon-badges.demolab.com/badge/Windows-Download-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://urlportz.com/?ref=github)
+[![macOS Coming Soon](https://img.shields.io/badge/macOS-coming%20soon-999999?style=for-the-badge&logo=apple&logoColor=white)](https://urlportz.com/?ref=github)
+[![Linux Coming Soon](https://img.shields.io/badge/Linux-coming%20soon-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://urlportz.com/?ref=github)
 
-[Website](https://urlportz.com) · [Download](https://urlportz.com) · [Report a Bug](https://urlportz.com)
+[Website](https://urlportz.com/?ref=github) · [Download](https://urlportz.com/?ref=github) · [Report a Bug](https://urlportz.com/?ref=github)
 
 </div>
 
@@ -54,7 +54,7 @@ If you work with Kubernetes, you've lived this:
 
 ## Get Started
 
-1. **[Download from urlportz.com](https://urlportz.com)**
+1. **[Download from urlportz.com](https://urlportz.com/?ref=github)**
 2. Install — no account, no setup, no cloud
 3. Add your first port-forward and watch it auto-reconnect
 
@@ -62,6 +62,6 @@ If you work with Kubernetes, you've lived this:
 
 <div align="center">
 
-Built by a developer, for developers. &nbsp;·&nbsp; [urlportz.com](https://urlportz.com)
+Built by a developer, for developers. &nbsp;·&nbsp; [urlportz.com](https://urlportz.com/?ref=github)
 
 </div>
